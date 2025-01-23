@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bienvenido a mi Perfil de GitHub 👋
 
-<!--
-**Josephh250/Josephh250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Hola, soy Jimmy, me gusta la tecnología, y los videojuegos ademas de ser un entusiasta por todo lo que abarque la cocina y me gustan mucho los animales.
 
-Here are some ideas to get you started:
+## Tecnologías y Herramientas
+- **Lenguajes:** HTML Basico, MySQL
+- **Herramientas:** GitHub, SQL, VisualCodeStudio, Draw.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+Por ahora no poseo de un proyecto, pero pronto lo subire
+- **Próximo proyecto:** Sera un SQL sobre una empresa de Tecnologia, la cual llevare el inventario de la mayoría de las cosas, aunque sea ficticia
+
+## Cómo Conectarme
+- A travez de mi perfil de Github
+
+Gracias por visitar mi perfil. ¡Espero colaborar contigo pronto! 🚀
